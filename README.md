@@ -1,0 +1,4 @@
+- ## meu perfil
+- ola meu nome é @anyelafernandino
+- meu email de contato é anyela.farias@escola.pr.gov.br
+- 👀 eu estou interessado em apendendo novas linguages de progamação...
